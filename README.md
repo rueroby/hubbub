@@ -1,5 +1,6 @@
 Hubbub
 ======
+by Rudy Robinson
 
 Issues get messy, Hubbub keeps you organized.
 
